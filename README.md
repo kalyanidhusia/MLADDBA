@@ -3,9 +3,15 @@ Module 2 -- Machine learning with protein data
 
 
 Context
-This is a protein data set retrieved from Research Collaboratory for Structural Bioinformatics (RCSB) Protein Data Bank (PDB).
+This module in MLADDBA workshop is intended to provide an introduction to machine learning and its applications with proteinbiology (proteiomics) and computational biologists. This session targets biologists or life scientists who want to understand machine learning, what it can do and how it can be used for a variety of bioinformatic specifically in terms of accessing and predicting protein structure. Attendees will gain experience in the following 
+    Module 2: Introduction to machine learning (Lecture cum Hands-on session)<br>
+● Protein data handeling using Jupyter(Python)<br>
+● Examples of machine learning in protein bioinformatics<br>
+● Brief introduction to machine learning methods including<br>
+● decision trees and random forests<br>
+● support vector machine
 
-The PDB archive is a repository of atomic coordinates and other information describing proteins and other important biological macromolecules. Structural biologists use methods such as X-ray crystallography, NMR spectroscopy, and cryo-electron microscopy to determine the location of each atom relative to each other in the molecule. They then deposit this information, which is then annotated and publicly released into the archive by the wwPDB.
+This is a protein data set retrieved from Research Collaboratory for Structural Bioinformatics (RCSB) Protein Data Bank (PDB) and Kaggle.
 
 The constantly-growing PDB is a reflection of the research that is happening in laboratories across the world. This can make it both exciting and challenging to use the database in research and education. Structures are available for many of the proteins and nucleic acids involved in the central processes of life, so you can go to the PDB archive to find structures for ribosomes, oncogenes, drug targets, and even whole viruses. However, it can be a challenge to find the information that you need, since the PDB archives so many different structures. You will often find multiple structures for a given molecule, or partial structures, or structures that have been modified or inactivated from their native form.
 
