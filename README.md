@@ -1,5 +1,5 @@
 # MLADDBA
-Machine learning with protein data
+Module 2 -- Machine learning with protein data
 
 
 Context
