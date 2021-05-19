@@ -23,23 +23,17 @@ https://test-jupyter.readthedocs.io/en/latest/install.html
 
 BioPandas requires the following software and packages:
 
-Python 2.7, 3.5, or 3.6
-
-NumPy >= 1.11.2
-
-SciPy >= 0.18.1
-
+Python 2.7, 3.5, or 3.6<br>
+NumPy >= 1.11.2<br>
+SciPy >= 0.18.1<br>
 Pandas >= 0.19.1
 
-Versions of biopandas are now also available via conda-forge; you can install it via
-
-conda install biopandas -c conda-forge
-
+Versions of biopandas are now also available via conda-forge; you can install it via<br>
+conda install biopandas -c conda-forge<br>
 or simply,<br>
-conda install biopandas
+conda install biopandas<br>
 
-Content
-
+Content<br>
 There are two data files. Both are arranged on "structureId" of the protein:
 pdbdatano_dups.csv contains protein meta data which includes details on protein classification, extraction methods, etc.
 data_seq.csv contains >400,000 protein structure sequences.
