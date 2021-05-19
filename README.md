@@ -24,8 +24,11 @@ https://test-jupyter.readthedocs.io/en/latest/install.html
 BioPandas requires the following software and packages:
 
 Python 2.7, 3.5, or 3.6
+
 NumPy >= 1.11.2
+
 SciPy >= 0.18.1
+
 Pandas >= 0.19.1
 
 Versions of biopandas are now also available via conda-forge; you can install it via
