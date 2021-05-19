@@ -16,10 +16,13 @@ This is a protein data set retrieved from Research Collaboratory for Structural 
 The constantly-growing PDB is a reflection of the research that is happening in laboratories across the world. This can make it both exciting and challenging to use the database in research and education. Structures are available for many of the proteins and nucleic acids involved in the central processes of life, so you can go to the PDB archive to find structures for ribosomes, oncogenes, drug targets, and even whole viruses. However, it can be a challenge to find the information that you need, since the PDB archives so many different structures. You will often find multiple structures for a given molecule, or partial structures, or structures that have been modified or inactivated from their native form.
 
 Prerequisites installation:
+
 All of the work here is done using Jupyter, which can be installed easily using the following:
+
 https://test-jupyter.readthedocs.io/en/latest/install.html
 
 BioPandas requires the following software and packages:
+
 Python 2.7, 3.5, or 3.6
 NumPy >= 1.11.2
 SciPy >= 0.18.1
