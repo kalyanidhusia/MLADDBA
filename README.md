@@ -32,11 +32,14 @@ SciPy >= 0.18.1
 Pandas >= 0.19.1
 
 Versions of biopandas are now also available via conda-forge; you can install it via
+
 conda install biopandas -c conda-forge
-or simply,
+
+or simply,<br>
 conda install biopandas
 
 Content
+
 There are two data files. Both are arranged on "structureId" of the protein:
 pdbdatano_dups.csv contains protein meta data which includes details on protein classification, extraction methods, etc.
 data_seq.csv contains >400,000 protein structure sequences.
